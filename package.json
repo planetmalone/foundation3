@@ -4,7 +4,7 @@
   "main": "vendor/assets/javascripts/foundation/foundation.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetmalone/foundation3"
+    "url": "git://github.com/planetmalone/foundation3.git"
   },
   "keywords": [
     "foundation3"
@@ -12,7 +12,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/planetmalone/foundation3/blob/master/LICENSE"
+      "url": "http://github.com/planetmalone/foundation3/LICENSE"
     }
   ],
   "description": "Welcome to Foundation =====================",
