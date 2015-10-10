@@ -4,7 +4,7 @@
   "main": "vendor/assets/javascripts/foundation/foundation.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/planetmalone/foundation3.git"
+    "url": "https://github.com/planetmalone/foundation3"
   },
   "keywords": [
     "foundation3"
