@@ -25,9 +25,14 @@
   },
   "dependencies": {
     "compass-stylesheets": "0.0.0",
-    "modularscale-sass": "^2.1.1"
+    "modularscale-sass": "2.0.6"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,0 +1,12 @@
+preferred_syntax = :scss
+http_path = '/'
+project_path = '.'
+css_dir = 'css'
+sass_dir = 'scss'
+sass_path = File.expand_path("../scss", __FILE__)
+images_dir = 'images'
+javascripts_dir = 'js'
+relative_assets = true
+line_comments = true
+output_style = :expanded
+cache = false
