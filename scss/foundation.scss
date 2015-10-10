@@ -2,9 +2,9 @@
 // Foundation Features
 // =============
 
-@import "compass/css3";
+@import "/node_modules/compass-stylesheets/compass/css3";
 
-@import "modular-scale";
+@import "/node_modules/modularscale-sass/stylesheets/modular-scale";
 
 @import "foundation/functions/all";
 
