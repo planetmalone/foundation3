@@ -24,7 +24,6 @@
     "test": "test"
   },
   "dependencies": {
-    "compass-stylesheets": "0.0.0",
     "modularscale-sass": "2.0.6"
   },
   "devDependencies": {
