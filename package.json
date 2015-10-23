@@ -1,41 +1,41 @@
 {
-  "name": "foundation3",
-  "version": "3.2.5",
-  "main": "vendor/assets/javascripts/foundation/foundation.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/planetmalone/foundation3.git"
-  },
-  "keywords": [
-    "foundation3"
-  ],
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/planetmalone/foundation3/LICENSE"
-    }
-  ],
-  "description": "Welcome to Foundation =====================",
-  "bugs": {
-    "url": "https://github.com/planetmalone/foundation3/issues"
-  },
-  "homepage": "https://github.com/planetmalone/foundation3#readme",
-  "directories": {
-    "test": "test"
-  },
-  "dependencies": {
-    "compass-stylesheets": "0.0.0",
-    "modularscale-sass": "2.0.6"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-compass": "^2.1.0",
-    "gulp-minify-css": "^1.2.1",
-    "gulp-rename": "^1.2.2"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Sean Malone <seanmalone.cs@gmail.com>",
-  "license": "MIT"
+    "name": "foundation3",
+    "version": "3.2.5",
+    "main": "vendor/assets/javascripts/foundation/foundation.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/planetmalone/foundation3.git"
+    },
+    "keywords": [
+        "foundation3"
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/planetmalone/foundation3/LICENSE"
+        }
+    ],
+    "description": "Welcome to Foundation =====================",
+    "bugs": {
+        "url": "https://github.com/planetmalone/foundation3/issues"
+    },
+    "homepage": "https://github.com/planetmalone/foundation3#readme",
+    "directories": {
+        "test": "test"
+    },
+    "dependencies": {
+        "compass-stylesheets": "0.0.0",
+        "modularscale-sass": "2.0.6"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "gulp-compass": "^2.1.0",
+        "gulp-minify-css": "^1.2.1",
+        "gulp-rename": "^1.2.2"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sean Malone <seanmalone.cs@gmail.com>",
+    "license": "MIT"
 }
